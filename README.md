@@ -8,7 +8,7 @@ This is a two page website to show the multipl choice quiz, countdown and highsc
 The following image shows the landing page appearance and functionality
 
 
-
+![An image of the portfolio website landing page appearance and functionality.](/starter/assets/images/quiz_screenshot.png)
 
 ## Installation
 
